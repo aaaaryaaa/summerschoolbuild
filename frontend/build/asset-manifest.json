@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2617cee.css",
+    "main.js": "/static/js/main.b50dc284.js",
+    "static/media/niggesh1.jpg": "/static/media/niggesh1.6935f4aebe8ae56dedc6.jpg",
+    "static/media/webdev-Photoroom.jpg": "/static/media/webdev-Photoroom.c0fcc45c9f4b919cf6ef.jpg",
+    "static/media/design-Photoroom.jpg": "/static/media/design-Photoroom.e4f1805f62e0df6f6d14.jpg",
+    "static/media/aiml-Photoroom.jpg": "/static/media/aiml-Photoroom.a489e6a4e8c1b74d5025.jpg",
+    "static/media/appdev-Photoroom.jpg": "/static/media/appdev-Photoroom.deb4dcfab7994a67cca7.jpg",
+    "static/media/dsa-Photoroom.jpg": "/static/media/dsa-Photoroom.e5e8c1c84b60b6692380.jpg",
+    "static/media/logo.jpeg": "/static/media/logo.76fb366ceb5fced1fb0c.jpeg",
+    "static/media/everyoneprogress.svg": "/static/media/everyoneprogress.dc67db97bf2ba9fd72357de4e1056af2.svg",
+    "index.html": "/index.html",
+    "static/media/crossmark.svg": "/static/media/crossmark.4893f79dabf7ba498fbdc69acfd87f6c.svg",
+    "static/media/hamburgericon.svg": "/static/media/hamburgericon.9508e0b612421d1494512feda1339f9b.svg",
+    "static/media/arrowdown.svg": "/static/media/arrowdown.ad9d7b2627021d1a9731434fc5fe06f3.svg",
+    "static/media/arrowdownblack.svg": "/static/media/arrowdownblack.4dfb8caec66353a53db8d551049c220d.svg",
+    "static/media/arrowupblack.svg": "/static/media/arrowupblack.e4e559311b80e963636705421c853db0.svg",
+    "main.d2617cee.css.map": "/static/css/main.d2617cee.css.map",
+    "main.b50dc284.js.map": "/static/js/main.b50dc284.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2617cee.css",
+    "static/js/main.b50dc284.js"
+  ]
+}
